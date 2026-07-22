@@ -38,7 +38,7 @@ Instagram : https://www.instagram.com/kritikarouniyar1/
 
 # 📈 Contribution Graph
 
-[![Kritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rouniyarkritika4-lang&theme=tokyo-night)](https://github.com/Kritika Rouniyar)
+[![Kritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rouniyarkritika4-lang&theme=tokyo-night)](https://github.com/KritikaRouniyar)
 ---
 
 <p align="center">
